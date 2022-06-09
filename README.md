@@ -51,9 +51,9 @@
 `**` Exponentiation (multiply to the power of)
 ***
 
-## Data Types
+# Data Types
 
-### Primitive Types in JavaScript
+## Primitive Types
 1. `Number` Any number
 2. `Boolean` Represented as True or False (1 or 0) 
 3. `Null` Intentional absence of a value (It exists, but it doesn't have a value)
