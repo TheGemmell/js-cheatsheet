@@ -51,3 +51,14 @@
 `**` Exponentiation (multiply to the power of)
 ***
 
+## Data Types
+
+### Primitive Types in JavaScript
+1. `Number` Any number
+2. `Boolean` Represented as True or False (1 or 0) 
+3. `Null` Intentional absence of a value (It exists, but it doesn't have a value)
+4. `Undefined` Absense of a value (it doesn't exist)
+5. `BigInt` Used for storing numbers larger than 9,007,199,254,740,991
+6. `String` Grouping of characters, aka text (letters, numbers, spaces, symbols, etc) 
+7. `Symbol` Used for anonymouse, unique values. (Useful in complex, security-driven applications)
+
