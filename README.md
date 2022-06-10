@@ -62,3 +62,14 @@
 6. `String` Grouping of characters, aka text (letters, numbers, spaces, symbols, etc) 
 7. `Symbol` Used for anonymouse, unique values. (Useful in complex, security-driven applications)
 
+
+# Conditional Statements
+
+## Falsy values 
+1. 0
+2. Empty strings like "" or ''
+3. null which represent when there is no value at all
+4. undefined which represent when a declared variable lacks a value
+5. NaN, or Not a Number
+
+
