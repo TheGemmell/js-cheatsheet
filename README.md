@@ -103,7 +103,7 @@ while (condition) {
     // Code block to be executed
 }
 ```
-`While` loops take in a condition and will loop until that condition is no longer true
+`While` loops take in a `condition` and will loop until that condition is no longer true
 
 > *_Be extremely careful with `while` loops, as they are extremely easy to get stuck in an infinite loop, this can crash the page and/or computer running it._
 
@@ -118,5 +118,5 @@ while (i < 10) {
 ```
 The above example will run 10 times, as you can see, we need to declare the value of `i` outside the loop. Otherwise it would never start the loop, because JavaScript doesn't know what `i` means
 
-If we were to forget to increment `i` it would run forever, as the condition would never be false. Since `i` would never get higher than `0`
+If we were to forget to increment `i` after each iteration, it would run forever. Since the condition would never be false, as `i` would never get higher than `0`
 
