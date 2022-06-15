@@ -1,9 +1,9 @@
 # JavaScript Cheatsheet
 
 # Variable Declarations
-`var` Declare a variable that can be changed later
+~~`var` Declare a variable that can be changed later~~
 
-`let` - Declare a variable that can be changed later ==*Newer*==
+`let` - Declare a variable that can be changed later
 
 `const` - Declare a variable that can not be changed later
 > there are some other differences between `var` and `let` to do with **scope** but we won't get into that for now.
