@@ -36,19 +36,30 @@
 `<=` Less Than || Equal To
 
 
-## Arithmetic 
-`+` Addition
+## Arithmetic && assignment 
+`+` Addition 
+
+`+=` Addition assignment 
 
 `-` Subtraction
 
+`-=` Subtraction assignment 
+
 `*` Multiplication
+
+`*=` Multiplication assignment 
 
 `/`  Division
 
+`/=`  Division assignment 
+
 `%` Modulus (Returns the remainder of a division)
 
+`%=` Modulus assignment 
 
 `**` Exponentiation (multiply to the power of)
+
+`**=` Exponentiation assignment
 ***
 
 # Data Types
